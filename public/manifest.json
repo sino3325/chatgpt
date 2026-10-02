@@ -1,0 +1,32 @@
+{
+  "theme_color": "#f97316",
+  "background_color": "#f97316",
+  "display": "standalone",
+  "scope": "/commufa/",
+  "start_url": "/",
+  "name": "ChatGPTランチャー",
+  "description": "ChatGPTのPWAランチャー",
+  "short_name": "ChatGPTランチャー",
+  "icons": [
+    {
+      "src": "/icon512_maskable.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon512_maskable.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon512_maskable.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon512_maskable.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
