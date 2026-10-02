@@ -2,7 +2,7 @@
   "theme_color": "#fcfcfc",
   "background_color": "#fcfcfc",
   "display": "standalone",
-  "scope": "/commufa/",
+  "scope": "/chatgpt/",
   "start_url": "/",
   "name": "ChatGPTランチャー",
   "description": "ChatGPTのPWAランチャー",
