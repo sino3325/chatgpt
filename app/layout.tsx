@@ -18,7 +18,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head>
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/icon.png"></link>
-        <meta name="theme-color" content="#f97316" />
+        <meta name="theme-color" content="#fcfcfc" />
       </head>
       <body className={inter.className}>
         <ThemeRegistry>{children}</ThemeRegistry>
