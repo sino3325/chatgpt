@@ -1,8 +1,9 @@
-import { redirect } from "next/navigation";
+import ATagBase from "./_components/AtagBase";
 
 export default function Home() {
-  // redirect("https://chatgpt.com/");
-  return <>
-  <a href="https://chatgpt.com/">https://chatgpt.com/</a>
-  </>;
+  return (
+    <>
+      <ATagBase href="https://chatgpt.com/" linkText="https://chatgpt.com/" />
+    </>
+  );
 }
