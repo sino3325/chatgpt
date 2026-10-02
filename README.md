@@ -1,4 +1,4 @@
-# next_setup_base
+# setup_next_PWA
 
 ## 概要
 
@@ -43,13 +43,13 @@
 ### 1. クローンを作成
 
 ```shell
-git clone https://github.com/sino3325/next_setup_base [新しいディレクトリ名]
+git clone https://github.com/sino3325/setup_next_PWA [新しいディレクトリ名]
 ```
 
 ### 2. 作成したディレクトリを開きライブラリをインストール
 
 ```shell
-npm i
+npm ci
 ```
 
 ### 3. 新しいリモートリポジトリを作成後に以下のコマンドを実行
@@ -65,3 +65,5 @@ git remote add origin https://github.com/sino3325/[リモートリポジトリ�
 git branch -M main
 git push -u origin main
 ```
+
+### 5. PWAにするために必要な変更箇所
